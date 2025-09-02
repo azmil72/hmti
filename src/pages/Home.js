@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar';
 import logo from '../logo.svg';
 
 import labImage from '../assets/seminar.jpg';
-import jaringanImage from '../assets/ti24prak.jpeg';
+import jaringanImage from '../assets/diskusi.jpeg';
 import seminarImage from '../assets/semin.jpeg';
 import praktikumImage from '../assets/ti24.jpeg';
 import strukturImage from '../assets/bily.jpg';
