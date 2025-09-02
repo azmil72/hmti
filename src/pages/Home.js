@@ -2,7 +2,6 @@ import { Helmet } from "react-helmet";
 import Navbar from '../components/Navbar';
 import logo from '../logo.svg';
 
-// Import gambar untuk konten semantik
 import labImage from '../assets/seminar.jpg';
 import jaringanImage from '../assets/ti24prak.jpeg';
 import seminarImage from '../assets/semin.jpeg';
@@ -10,6 +9,7 @@ import praktikumImage from '../assets/ti24.jpeg';
 import strukturImage from '../assets/bily.jpg';
 import kegiatanImage from '../assets/itgoestoschool.jpeg';
 import lambangHmtiImage from '../assets/HMTI.png'; 
+import strukturImage1 from '../assets/bagas.jpeg';
 
 function Home() {
   return (
@@ -127,7 +127,7 @@ Dengan visi menjadi program studi unggulan, HMTI Polteksi berkomitmen untuk meng
               <figure className="w-full md:w-1/3 flex justify-center">
                 <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-lg">
                   <img 
-                    src={strukturImage} 
+                    src={strukturImage1} 
                     alt="Presiden Himpunan Mahasiswa Teknologi Informasi" 
                     className="w-full h-full object-cover"
                   />
