@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# HMTI Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Repository resmi untuk pengembangan platform digital **HMTI** (Himpunan Mahasiswa Tekniknologi Informasi). Proyek ini dibangun menggunakan **React.js** dan bertujuan untuk memfasilitasi kebutuhan informasi serta administrasi organisasi.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📋 Daftar Isi
 
-### `npm start`
+- Tentang Proyek
+- Teknologi
+- Prasyarat
+- Instalasi & Penggunaan
+- Kontribusi
+- Keamanan
+- Lisensi
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📖 Tentang Proyek
 
-### `npm test`
+Aplikasi ini dirancang sebagai pusat informasi dan layanan bagi anggota HMTI. Fitur-fitur utama meliputi:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*   Portal Berita & Pengumuman
+*   Manajemen Anggota
+*   Informasi Event & Kegiatan
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Teknologi
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Proyek ini dibangun menggunakan teknologi open source berikut:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*   React - Library JavaScript untuk antarmuka pengguna
+*   Create React App - Boilerplate setup
+*   Node.js - Runtime environment
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⚙️ Prasyarat
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Sebelum memulai, pastikan Anda telah menginstal:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+*   Node.js (Versi LTS disarankan)
+*   npm (Biasanya terinstall bersama Node.js)
+*   Git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 Instalasi & Penggunaan
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1.  **Clone Repository**
+    ```bash
+    git clone https://github.com/azmil72/hmti.git
+    cd hmti
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
 
-### Code Splitting
+3.  **Jalankan Development Server**
+    ```bash
+    npm start
+    ```
+    Aplikasi akan berjalan di http://localhost:3000.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4.  **Build untuk Produksi**
+    ```bash
+    npm run build
+    ```
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Kontribusi
 
-### Making a Progressive Web App
+Kami sangat terbuka untuk kontribusi dari siapa saja! Silakan baca dokumen berikut sebelum memulai:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+*   Panduan Kontribusi - Cara memulai kontribusi, setup, dan workflow.
+*   Kode Etik - Standar perilaku komunitas.
+*   Kebijakan Keamanan - Prosedur pelaporan celah keamanan.
+Selengkapnya bisa dibaca di file CONTRIBUTING.md.
 
-### Advanced Configuration
+Jika Anda menemukan bug atau memiliki ide fitur baru, silakan buat Issue baru.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🔐 Keamanan
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Keamanan adalah prioritas kami. Jika Anda menemukan kerentanan, harap **JANGAN** membukanya di issue publik.
+Silakan baca Kebijakan SECURITY.md untuk instruksi pelaporan yang aman.
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📄 Lisensi
+
+Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat file LICENSE untuk detail selengkapnya.
