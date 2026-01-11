@@ -76,22 +76,21 @@ Sebelum memulai, pastikan Anda telah menginstal:
 
 Kami sangat terbuka untuk kontribusi dari siapa saja! Silakan baca dokumen berikut sebelum memulai:
 
-*   Panduan Kontribusi - Cara memulai kontribusi, setup, dan workflow.
-*   Kode Etik - Standar perilaku komunitas.
-*   Kebijakan Keamanan - Prosedur pelaporan celah keamanan.
-Selengkapnya bisa dibaca di file CONTRIBUTING.md.
+- 📘 [CONTRIBUTING.md](CONTRIBUTING.md) — Panduan kontribusi, workflow, dan standar pengembangan
+- 📜 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Standar perilaku komunitas
+- 🔐 [SECURITY.md](SECURITY.md) — Prosedur pelaporan celah keamanan
 
-Jika Anda menemukan bug atau memiliki ide fitur baru, silakan buat Issue baru.
+Jika Anda menemukan bug atau memiliki ide fitur baru, silakan buat **Issue** baru.
 
 ---
 
 ## 🔐 Keamanan
 
 Keamanan adalah prioritas kami. Jika Anda menemukan kerentanan, harap **JANGAN** membukanya di issue publik.
-Silakan baca Kebijakan SECURITY.md untuk instruksi pelaporan yang aman.
+Silakan baca Kebijakan [SECURITY.md] untuk instruksi pelaporan yang aman.
 
 ---
 
 ## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat file LICENSE untuk detail selengkapnya.
+Proyek ini dilisensikan di bawah lisensi **MIT**. Lihat file [LICENSE] untuk detail selengkapnya.
